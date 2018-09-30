@@ -1,2 +1,6 @@
 # codefundo18
-Microsoft codefundo 2018
+Microsoft codefundo 2018#
+Abdhul Ahadh
+Bachelor of Technology on Chemical Engineering
+Indian Institute of Technology Madras
+Natural Disaster are not within our a control to a certain an extent. Thus I feel rather than working on being cautious of the same it's worth the time and resource spent to work on things which would add  'Salt to Wound' to these disaster and are within our control, To be specific 'Air Quality Monitoring'. The idea proposed is a simple Wireless Sensor Network - based air quality monitoring system for industrial, rural and urban areas with its further application on escalating the quality of data for conclusive and predictive observations. Furthermore, stretching onto it’s business and engagement model. Quality of Data, with 'Cheap' limited sensors and strategic networking and positioning of them. The data from the same is Analysed further to get he best of result. Location and time independent, Real time monitoring and alerting, Cheap and it's reliability factor makes this an ideal stand out. For the feasibility factor, I had worked upon a skeleton for a 100 dollar sensor networking plan with in IIT Madras campus (a 2.5 sq. km residential campus). The ignition for me to work on this https://www.popsci.com/disastrous-floods-china-linked-air-pollution
